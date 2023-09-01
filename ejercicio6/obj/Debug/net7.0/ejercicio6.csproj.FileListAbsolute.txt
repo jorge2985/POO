@@ -1,0 +1,15 @@
+C:\Users\Jorge\Desktop\POO\ejercicio6\bin\Debug\net7.0\ejercicio6.exe
+C:\Users\Jorge\Desktop\POO\ejercicio6\bin\Debug\net7.0\ejercicio6.deps.json
+C:\Users\Jorge\Desktop\POO\ejercicio6\bin\Debug\net7.0\ejercicio6.runtimeconfig.json
+C:\Users\Jorge\Desktop\POO\ejercicio6\bin\Debug\net7.0\ejercicio6.dll
+C:\Users\Jorge\Desktop\POO\ejercicio6\bin\Debug\net7.0\ejercicio6.pdb
+C:\Users\Jorge\Desktop\POO\ejercicio6\obj\Debug\net7.0\ejercicio6.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\POO\ejercicio6\obj\Debug\net7.0\ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\POO\ejercicio6\obj\Debug\net7.0\ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\POO\ejercicio6\obj\Debug\net7.0\ejercicio6.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\POO\ejercicio6\obj\Debug\net7.0\ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\POO\ejercicio6\obj\Debug\net7.0\ejercicio6.dll
+C:\Users\Jorge\Desktop\POO\ejercicio6\obj\Debug\net7.0\refint\ejercicio6.dll
+C:\Users\Jorge\Desktop\POO\ejercicio6\obj\Debug\net7.0\ejercicio6.pdb
+C:\Users\Jorge\Desktop\POO\ejercicio6\obj\Debug\net7.0\ejercicio6.genruntimeconfig.cache
+C:\Users\Jorge\Desktop\POO\ejercicio6\obj\Debug\net7.0\ref\ejercicio6.dll
